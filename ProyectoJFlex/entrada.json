@@ -1,0 +1,56 @@
+{
+  "nombreComputadora": "Workstation Gamer PRO",
+  "marca": "Custom Build",
+  "fechaEnsamblaje": "2024-01-15",
+  "encendida": true,
+  "componentes": [
+    {
+      "tipo": "Procesador",
+      "modelo": "Intel Core i9-13900K",
+      "nucleos": 24,
+      "hilos": 32,
+      "frecuenciaGHz": 5.8,
+      "arquitectura": "Raptor Lake",
+      "tecnologias": [
+        "Hyper-Threading",
+        "Turbo Boost Max 3.0",
+        "PCIe 5.0"
+      ]
+    },
+    {
+      "tipo": "Memoria RAM",
+      "modelo": "Corsair Vengeance RGB",
+      "capacidadGB": 32,
+      "velocidadMHz": 6400,
+      "tipo": "DDR5",
+      "latencia": "CL36",
+      "canales": [
+        "Dual Channel",
+        "XMP 3.0"
+      ]
+    },
+    {
+      "tipo": "Tarjeta Gráfica",
+      "modelo": "NVIDIA RTX 4090",
+      "vramGB": 24,
+      "nucleosCUDA": 16384,
+      "frecuenciaBoostMHz": 2520,
+      "tecnologias": [
+        "Ray Tracing",
+        "DLSS 3",
+        "Reflex"
+      ]
+    },
+    {
+      "tipo": "Almacenamiento",
+      "modelo": "Samsung 990 Pro",
+      "capacidadGB": 2000,
+      "tipo": "NVMe SSD",
+      "interfaz": "PCIe 4.0 x4",
+      "velocidadLecturaMBs": 7450,
+      "velocidadEscrituraMBs": 6900
+    }
+  ],
+  "puntuacionBenchmark": 28500,
+  "sistemaOperativo": "Windows 11 Pro"
+}

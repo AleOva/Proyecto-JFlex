@@ -1,0 +1,162 @@
+Nombre token,Lexema,Patron/Expresion regular,Fila,Columna
+"LLAVE_APERTURA","{","Caracter '{'",1,1
+"CADENA","""nombreComputadora""","Cadena de texto",2,3
+"DOS_PUNTOS",":","Caracter ':'",2,22
+"CADENA","""Workstation Gamer PRO""","Cadena de texto",2,24
+"COMA",",","Caracter ','",2,47
+"CADENA","""marca""","Cadena de texto",3,3
+"DOS_PUNTOS",":","Caracter ':'",3,10
+"CADENA","""Custom Build""","Cadena de texto",3,12
+"COMA",",","Caracter ','",3,26
+"CADENA","""fechaEnsamblaje""","Cadena de texto",4,3
+"DOS_PUNTOS",":","Caracter ':'",4,20
+"CADENA","""2024-01-15""","Cadena de texto",4,22
+"COMA",",","Caracter ','",4,34
+"CADENA","""encendida""","Cadena de texto",5,3
+"DOS_PUNTOS",":","Caracter ':'",5,14
+"BOOLEAN_TRUE","true","Palabra reservada true",5,16
+"COMA",",","Caracter ','",5,20
+"CADENA","""componentes""","Cadena de texto",6,3
+"DOS_PUNTOS",":","Caracter ':'",6,16
+"CORCHETE_APERTURA","[","Caracter '['",6,18
+"LLAVE_APERTURA","{","Caracter '{'",7,5
+"CADENA","""tipo""","Cadena de texto",8,7
+"DOS_PUNTOS",":","Caracter ':'",8,13
+"CADENA","""Procesador""","Cadena de texto",8,15
+"COMA",",","Caracter ','",8,27
+"CADENA","""modelo""","Cadena de texto",9,7
+"DOS_PUNTOS",":","Caracter ':'",9,15
+"CADENA","""Intel Core i9-13900K""","Cadena de texto",9,17
+"COMA",",","Caracter ','",9,39
+"CADENA","""nucleos""","Cadena de texto",10,7
+"DOS_PUNTOS",":","Caracter ':'",10,16
+"NUMERO_ENTERO","24","Numero entero",10,18
+"COMA",",","Caracter ','",10,20
+"CADENA","""hilos""","Cadena de texto",11,7
+"DOS_PUNTOS",":","Caracter ':'",11,14
+"NUMERO_ENTERO","32","Numero entero",11,16
+"COMA",",","Caracter ','",11,18
+"CADENA","""frecuenciaGHz""","Cadena de texto",12,7
+"DOS_PUNTOS",":","Caracter ':'",12,22
+"NUMERO_DECIMAL","5.8","Numero decimal",12,24
+"COMA",",","Caracter ','",12,27
+"CADENA","""arquitectura""","Cadena de texto",13,7
+"DOS_PUNTOS",":","Caracter ':'",13,21
+"CADENA","""Raptor Lake""","Cadena de texto",13,23
+"COMA",",","Caracter ','",13,36
+"CADENA","""tecnologias""","Cadena de texto",14,7
+"DOS_PUNTOS",":","Caracter ':'",14,20
+"CORCHETE_APERTURA","[","Caracter '['",14,22
+"CADENA","""Hyper-Threading""","Cadena de texto",15,9
+"COMA",",","Caracter ','",15,26
+"CADENA","""Turbo Boost Max 3.0""","Cadena de texto",16,9
+"COMA",",","Caracter ','",16,30
+"CADENA","""PCIe 5.0""","Cadena de texto",17,9
+"CORCHETE_CIERRE","]","Caracter ']'",18,7
+"LLAVE_CIERRE","}","Caracter '}'",19,5
+"COMA",",","Caracter ','",19,6
+"LLAVE_APERTURA","{","Caracter '{'",20,5
+"CADENA","""tipo""","Cadena de texto",21,7
+"DOS_PUNTOS",":","Caracter ':'",21,13
+"CADENA","""Memoria RAM""","Cadena de texto",21,15
+"COMA",",","Caracter ','",21,28
+"CADENA","""modelo""","Cadena de texto",22,7
+"DOS_PUNTOS",":","Caracter ':'",22,15
+"CADENA","""Corsair Vengeance RGB""","Cadena de texto",22,17
+"COMA",",","Caracter ','",22,40
+"CADENA","""capacidadGB""","Cadena de texto",23,7
+"DOS_PUNTOS",":","Caracter ':'",23,20
+"NUMERO_ENTERO","32","Numero entero",23,22
+"COMA",",","Caracter ','",23,24
+"CADENA","""velocidadMHz""","Cadena de texto",24,7
+"DOS_PUNTOS",":","Caracter ':'",24,21
+"NUMERO_ENTERO","6400","Numero entero",24,23
+"COMA",",","Caracter ','",24,27
+"CADENA","""tipo""","Cadena de texto",25,7
+"DOS_PUNTOS",":","Caracter ':'",25,13
+"CADENA","""DDR5""","Cadena de texto",25,15
+"COMA",",","Caracter ','",25,21
+"CADENA","""latencia""","Cadena de texto",26,7
+"DOS_PUNTOS",":","Caracter ':'",26,17
+"CADENA","""CL36""","Cadena de texto",26,19
+"COMA",",","Caracter ','",26,25
+"CADENA","""canales""","Cadena de texto",27,7
+"DOS_PUNTOS",":","Caracter ':'",27,16
+"CORCHETE_APERTURA","[","Caracter '['",27,18
+"CADENA","""Dual Channel""","Cadena de texto",28,9
+"COMA",",","Caracter ','",28,23
+"CADENA","""XMP 3.0""","Cadena de texto",29,9
+"CORCHETE_CIERRE","]","Caracter ']'",30,7
+"LLAVE_CIERRE","}","Caracter '}'",31,5
+"COMA",",","Caracter ','",31,6
+"LLAVE_APERTURA","{","Caracter '{'",32,5
+"CADENA","""tipo""","Cadena de texto",33,7
+"DOS_PUNTOS",":","Caracter ':'",33,13
+"CADENA","""Tarjeta Gráfica""","Cadena de texto",33,15
+"COMA",",","Caracter ','",33,33
+"CADENA","""modelo""","Cadena de texto",34,7
+"DOS_PUNTOS",":","Caracter ':'",34,15
+"CADENA","""NVIDIA RTX 4090""","Cadena de texto",34,17
+"COMA",",","Caracter ','",34,34
+"CADENA","""vramGB""","Cadena de texto",35,7
+"DOS_PUNTOS",":","Caracter ':'",35,15
+"NUMERO_ENTERO","24","Numero entero",35,17
+"COMA",",","Caracter ','",35,19
+"CADENA","""nucleosCUDA""","Cadena de texto",36,7
+"DOS_PUNTOS",":","Caracter ':'",36,20
+"NUMERO_ENTERO","16384","Numero entero",36,22
+"COMA",",","Caracter ','",36,27
+"CADENA","""frecuenciaBoostMHz""","Cadena de texto",37,7
+"DOS_PUNTOS",":","Caracter ':'",37,27
+"NUMERO_ENTERO","2520","Numero entero",37,29
+"COMA",",","Caracter ','",37,33
+"CADENA","""tecnologias""","Cadena de texto",38,7
+"DOS_PUNTOS",":","Caracter ':'",38,20
+"CORCHETE_APERTURA","[","Caracter '['",38,22
+"CADENA","""Ray Tracing""","Cadena de texto",39,9
+"COMA",",","Caracter ','",39,22
+"CADENA","""DLSS 3""","Cadena de texto",40,9
+"COMA",",","Caracter ','",40,17
+"CADENA","""Reflex""","Cadena de texto",41,9
+"CORCHETE_CIERRE","]","Caracter ']'",42,7
+"LLAVE_CIERRE","}","Caracter '}'",43,5
+"COMA",",","Caracter ','",43,6
+"LLAVE_APERTURA","{","Caracter '{'",44,5
+"CADENA","""tipo""","Cadena de texto",45,7
+"DOS_PUNTOS",":","Caracter ':'",45,13
+"CADENA","""Almacenamiento""","Cadena de texto",45,15
+"COMA",",","Caracter ','",45,31
+"CADENA","""modelo""","Cadena de texto",46,7
+"DOS_PUNTOS",":","Caracter ':'",46,15
+"CADENA","""Samsung 990 Pro""","Cadena de texto",46,17
+"COMA",",","Caracter ','",46,34
+"CADENA","""capacidadGB""","Cadena de texto",47,7
+"DOS_PUNTOS",":","Caracter ':'",47,20
+"NUMERO_ENTERO","2000","Numero entero",47,22
+"COMA",",","Caracter ','",47,26
+"CADENA","""tipo""","Cadena de texto",48,7
+"DOS_PUNTOS",":","Caracter ':'",48,13
+"CADENA","""NVMe SSD""","Cadena de texto",48,15
+"COMA",",","Caracter ','",48,25
+"CADENA","""interfaz""","Cadena de texto",49,7
+"DOS_PUNTOS",":","Caracter ':'",49,17
+"CADENA","""PCIe 4.0 x4""","Cadena de texto",49,19
+"COMA",",","Caracter ','",49,32
+"CADENA","""velocidadLecturaMBs""","Cadena de texto",50,7
+"DOS_PUNTOS",":","Caracter ':'",50,28
+"NUMERO_ENTERO","7450","Numero entero",50,30
+"COMA",",","Caracter ','",50,34
+"CADENA","""velocidadEscrituraMBs""","Cadena de texto",51,7
+"DOS_PUNTOS",":","Caracter ':'",51,30
+"NUMERO_ENTERO","6900","Numero entero",51,32
+"LLAVE_CIERRE","}","Caracter '}'",52,5
+"CORCHETE_CIERRE","]","Caracter ']'",53,3
+"COMA",",","Caracter ','",53,4
+"CADENA","""puntuacionBenchmark""","Cadena de texto",54,3
+"DOS_PUNTOS",":","Caracter ':'",54,24
+"NUMERO_ENTERO","28500","Numero entero",54,26
+"COMA",",","Caracter ','",54,31
+"CADENA","""sistemaOperativo""","Cadena de texto",55,3
+"DOS_PUNTOS",":","Caracter ':'",55,21
+"CADENA","""Windows 11 Pro""","Cadena de texto",55,23
+"LLAVE_CIERRE","}","Caracter '}'",56,1
